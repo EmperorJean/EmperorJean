@@ -1,5 +1,5 @@
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorJean&hide=stars)
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorJean)
 
 
 # Hello 👋
