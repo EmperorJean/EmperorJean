@@ -11,8 +11,8 @@ My name is Jean, I am a Front End web and App developer.
 * Currently a specialist at Apple
 
 #### 📖 Currently Learning 📖
-* Swift/Xcode
-* Manderin
+* Cloud/OOP
+* German
 * C
 
 #### 🖥 What I'm woking on 🖥
