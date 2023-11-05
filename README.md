@@ -4,16 +4,17 @@
 
 # Hello 👋
 
-My name is Jean, I am a Front End web and App developer.
+My name is Jean, I am a software engineer.
+
 # About Me
 * Studying computer Science at the University of Massachussetts Boston
 * I enjoy learning new tools
-* Currently a specialist at Apple
+* Recently completed an internship with Amazon Web Services as an SDE
 
 #### 📖 Currently Learning 📖
-* Cloud/OOP
-* German
-* C
+* React/TypeScript
+* Machine Learning and AI
+* C/C++
 
 #### 🖥 What I'm woking on 🖥
 * [My Outkast](https://chrome.google.com/webstore/detail/my-outkast/bmlimdejnpceegolcbcdmfamghiafggd?hl=en&authuser=0) -  A chrome extension that implements a tool to track certain [outtaksts](https://outkast.world/) owned by an ethereum 
